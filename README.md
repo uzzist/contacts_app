@@ -1,16 +1,5 @@
-# contacts_app
+Screenshots:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![contacts screen](https://user-images.githubusercontent.com/82755609/195100099-53fdea55-4e9e-42b3-bb35-1d4b9fed0445.jpg)
+![Popup menu](https://user-images.githubusercontent.com/82755609/195100124-f9768a3c-aae8-401a-94ca-253de8309aa4.jpg)
+![profile screen](https://user-images.githubusercontent.com/82755609/195100137-d6b84467-2c17-4759-b7bf-e3118fc7386a.jpg)
